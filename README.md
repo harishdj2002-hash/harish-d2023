@@ -1,56 +1,21 @@
-# Hi, I'm Harish 👋  
+# 💫 About Me:
+I'm Harish D, <br>a passion-driven Cyber Security Engineering student and aspiring Jr. Cybersecurity Analyst with practical, hands-on experience in defending digital assets. My core strength lies in combining a robust academic foundation—covering network security, cryptography, and secure software design—with practical ethical hacking skills.  <br>I specialize in Web & API Vulnerability Assessment and Penetration Testing (VAPT), and have experience with real-time SOC monitoring utilizing tools like Splunk. My internship experience has given me insight into identifying risks, recommending mitigations, and practicing incident response.  <br>A dedicated builder, I leverage programming languages like Python and Bash to develop custom tools for automation, threat detection, and analysis. My projects, such as the ChainPhantom blockchain forensics system and a secure image steganography tool, reflect my commitment to applying cybersecurity concepts to solve real-world security challenges.  <br>I'm constantly looking to enhance cyber resilience, rapidly adapt to new threats, and collaborate effectively as a team player and leader.
 
-🚀 Cybersecurity Enthusiast | Jr. Cybersecurity Analyst | Aspiring VAPT Specialist  
 
-- 🔐 Passionate about penetration testing, incident response, and ethical hacking  
-- 🧩 Hands-on with Web Application VAPT, blockchain forensics, and secure software design  
-- 🕵️ Strong interest in threat detection, exploit analysis, and cryptography  
-- 💻 Building tools in Python, Bash, and C to enhance cyber resilience  
-- 🎯 Always learning, breaking, and securing systems  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-d-703b4026a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishd.2025@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harish-d2023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harish-d2023&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harish-d2023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ Skills  
-
-- Vulnerability Assessment & Penetration Testing (VAPT)  
-- Risk Assessment & Incident Response  
-- Threat Detection & Ethical Hacking  
-- Network Security & Cryptography  
-- Programming (Python, C, Bash, Java)  
-- Tools: Kali Linux, Wireshark, Nmap, Burp Suite  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harish-d2023&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=harish-d2023&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Projects  
-
-🔗 **ChainPhantom – Blockchain Forensics System**  
-➡️ Built a forensic platform to trace illicit crypto transactions.  
-
-🖼️ **Image Steganography with AES & SMTP**  
-➡️ Developed a secure tool to hide & transmit messages using steganography and encryption.  
-
-🔍 **Advanced Port Scanner**  
-➡️ Created a Python-based tool for network scanning & vulnerability detection.  
-
----
-
-## 🧑‍💻 Experience  
-
-**Cybersecurity Intern – Supraja Technologies (Sep 2024 – Dec 2024)**  
-- Conducted Web Application VAPT and risk assessment  
-- Practiced incident response and automation scripting  
-
----
-
-## 🎓 Education  
-
-🎓 **B.E. in Computer Science (Cyber Security)**  
-Sambhram Institute of Technology, Bengaluru (2022 – 2026)  
-
----
-
-## 🌐 Connect With Me  
-
-- 📧 Email: [harishd.2025@gmail.com](mailto:harishd.2025@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/harish-d-703b4026a](https://www.linkedin.com/in/harish-d-703b4026a)  
-- 🐙 GitHub: [github.com/harish-d2023](https://github.com/harish-d2023)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
